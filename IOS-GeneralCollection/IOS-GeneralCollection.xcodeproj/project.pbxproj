@@ -49,8 +49,8 @@
 		188E78E42145113F004760C6 /* LightStore.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LightStore.h; sourceTree = "<group>"; };
 		188E78E52145113F004760C6 /* LightStore.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LightStore.m; sourceTree = "<group>"; };
 		188E78E72145122F004760C6 /* AppMacros.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AppMacros.h; sourceTree = "<group>"; };
-		188E78E8214512B0004760C6 /* appSty.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = appSty.h; sourceTree = "<group>"; };
 		188E78E9214512E7004760C6 /* Development.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Development.h; sourceTree = "<group>"; };
+		18E937DC2145403B00812A87 /* AppStyle.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AppStyle.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -176,7 +176,7 @@
 			isa = PBXGroup;
 			children = (
 				188E78E72145122F004760C6 /* AppMacros.h */,
-				188E78E8214512B0004760C6 /* appSty.h */,
+				18E937DC2145403B00812A87 /* AppStyle.h */,
 			);
 			name = Macros;
 			sourceTree = "<group>";
